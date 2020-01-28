@@ -1,0 +1,42 @@
+ .navbar{
+
+    padding: 18px;
+    
+  }
+
+  .h1{
+    font-size: xx-large;
+ 
+
+  }
+
+  .nav-link{
+      color:whitesmoke;
+
+  }
+
+  a:hover{
+      color: whitesmoke;
+      background-color: black;
+
+  }
+
+  #port{
+    padding: 25px;
+    margin-top: 50px;
+   text-rendering: optimizeLegibility;
+   text-decoration: underline;
+}
+
+  .row{
+      padding: 20px;
+  }
+
+  #me{
+      text-decoration: underline;
+      margin-left: 230px;
+  }
+
+  p{
+      margin-left: 30px;
+  }
